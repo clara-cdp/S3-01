@@ -1,6 +1,5 @@
 <?php
 
-
 require_once('classes/WashingMachine.php');
 require_once('classes/ElectricHeater.php');
 

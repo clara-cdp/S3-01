@@ -2,6 +2,5 @@
 
 interface Attack
 {
-
     public function attack();
 }
